@@ -1,0 +1,2 @@
+# NewsApp
+Simple CRUD app
